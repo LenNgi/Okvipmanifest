@@ -2,7 +2,7 @@
     "packageUrl":"https://line.airlightxp.com/vert/c777android/zip/",
     "remoteManifestUrl":"https://line.airlightxp.com/vert/c777android/zip/project.manifest",
     "remoteVersionUrl":"https://line.airlightxp.com/vert/c777android/zip/version.manifest",
-    "version":"1.0.0",
+    "version":"0.0.1",
     "assets": {},
     "searchPaths":[]
 }
