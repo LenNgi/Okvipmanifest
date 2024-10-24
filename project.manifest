@@ -1,6 +1,1 @@
-{
-    "packageUrl":"https://ston.sloulink.com/pos/c777ios/zip/",
-    "remoteManifestUrl":"https://ston.sloulink.com/pos/c777ios/zip/project.manifest",
-    "remoteVersionUrl":"https://ston.sloulink.com/pos/c777ios/zip/version.manifest",
-    "version":"0.0.1"
-}
+{"version": "1.5", "packageUrl": "https://ston.sloulink.com/pos/c777ios/zip/", "remoteVersionUrl": "https://ston.sloulink.com/pos/c777ios/zip/version.manifest", "remoteManifestUrl": "https://ston.sloulink.com/pos/c777ios/zip/project.manifest", "searchPaths": [], "assets": {"project5.json": {"md5": "2b55cbfa48962b416abdfcd5c4de870a", "size": 8174}, "assets.zip": {"md5": "c7b485264b455f8558ef05053680119f", "size": 2535973, "compressed": true}, "src.zip": {"md5": "9924f1915c75166d7a59d3500343c421", "size": 2092180, "compressed": true}, "v3project5.json": {"md5": "f546560510913d3a5186a56f37917cc2", "size": 8386}, "v4project5.json": {"md5": "8f821b6b31000cbf30555047363a6445", "size": 8485}, "v2project5.json": {"md5": "8eb7003e93fea70a6732486cf0e184e2", "size": 8275}}}
