@@ -2,6 +2,5 @@
     "packageUrl":"https://ston.sloulink.com/pos/c777ios/zip/",
     "remoteManifestUrl":"https://ston.sloulink.com/pos/c777ios/zip/project.manifest",
     "remoteVersionUrl":"https://ston.sloulink.com/pos/c777ios/zip/version.manifest",
-    "version":"0.0.1",
-    "assets": {}
+    "version":"0.0.1"
 }
